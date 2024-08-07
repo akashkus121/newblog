@@ -138,7 +138,7 @@ This project was created using the following technologies.
 
 MIT License
 
-Copyright (c) 2022 Akash Kushwaha
+Copyright (c) 2024 Akash Kushwaha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
